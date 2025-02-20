@@ -3,7 +3,7 @@
 ![Road Segmentation Dataset Cover](/dataset_cover.png/)
 
 ## 📌 Overview
-This project focuses on **road segmentation** using the [DeepGlobe Road Extraction Dataset](http://deepglobe.org/challenge.html)) and leverages the `segmentation-models-pytorch (smp)` package to apply **deep learning-based semantic segmentation**.
+This project focuses on **road segmentation** using the [DeepGlobe Road Extraction Dataset](http://deepglobe.org/challenge.html) and leverages the `segmentation-models-pytorch (smp)` package to apply **deep learning-based semantic segmentation**.
 
 The current implementation utilizes a **UNet** architecture with a **ResNet-34** encoder, optimized with **Dice Loss**. 
 Various augmentations (rotations, flipping) and regularization techniques (dropout, weight decay) are applied to improve performance.
