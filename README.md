@@ -17,5 +17,10 @@ To run the project and train a model:
 3. Update configuration.
 4. Run main file
 
+### Current Evaluation
+Left: Image
+Middle: Prediction 
+Right: Mask (Ground Truth)
+
 ![Example 1](images/image1.JPG)
 ![Example 2](images/image2.JPG)
