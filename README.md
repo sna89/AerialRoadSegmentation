@@ -1,6 +1,6 @@
 # 🚀 Aerial Road Segmentation
 
-![Road Segmentation Dataset Cover](/dataset_cover.png/)
+![Road Segmentation Dataset Cover](dataset-cover.png)
 
 ## 📌 Overview
 This project focuses on **road segmentation** using the [DeepGlobe Road Extraction Dataset](http://deepglobe.org/challenge.html) and leverages the `segmentation-models-pytorch (smp)` package to apply **deep learning-based semantic segmentation**.
