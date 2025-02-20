@@ -19,7 +19,9 @@ To run the project and train a model:
 
 ### Current Evaluation
 Left: Image
+
 Middle: Prediction 
+
 Right: Mask (Ground Truth)
 
 ![Example 1](images/image1.JPG)
